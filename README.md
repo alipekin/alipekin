@@ -2,7 +2,7 @@
 <h3 align="center">ABAP DEVELOPER</h3>
 
 - 🔭 I’m currently working on **Detaysoft**
-
+- 💡 My main interest areas are **artificial intelligence**, **machine learning**, **natural language processing**, and **data science**.
 - 📫 How to reach me **alipekin10@gmail.com** or **alipekin10@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
