@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali PEKİN</h1>
 <h3 align="center">ABAP DEVELOPER</h3>
 
-- 🔭 I’m currently working on **Detaysoft** as **SAP ABAP Consultant**
+- 🔭 I’m currently working on **Trabzon University** as **Research Assistant**
 - 💡 My main interest areas are **artificial intelligence**, **machine learning**, **natural language processing**, and **data science**.
 - 📫 How to reach me **alipekin10@gmail.com** or **alipekin10@hotmail.com**
 
