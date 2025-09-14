@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Trabzon University** as **Research Assistant**
 - 💡 My main interest areas are **artificial intelligence**, **machine learning**, **natural language processing**, and **data science**.
-- 📫 How to reach me **alipekin10@gmail.com** or **alipekin10@hotmail.com**
+- 📫 How to reach me **alipekin@trabzon.edu.tr** or **alipekin10@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
